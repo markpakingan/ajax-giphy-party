@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+#removeImage {
+    background-color: rgb(197, 79, 10);
+    color: white;
+    border-radius: 5px;
+}
+
+button {
+    font-size: 20px;
+}
+
+#searchgif {
+    border-radius: 5px;
+}
+
+#input {
+    font-size: 20px;
+}
